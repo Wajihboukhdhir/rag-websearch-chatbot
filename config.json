@@ -1,0 +1,14 @@
+{
+    "LOG_LEVEL": 20,
+    "topic_name": "Ca' Foscari University related topic_name",
+    "topic_scope": "regulations of university, exams, courses, frequently asked questions, policies.",
+    "chroma_collection": "unive",
+    "pdf_base_dir": "C:/Users/Wajih/Desktop/Projects Wajih/Graduation/pdf",
+    "html_base_dir": "C:/Users/Wajih/Desktop/Projects Wajih/Graduation/html",
+    "chroma_base_dir": "C:/Users/Wajih/Desktop/Projects Wajih/Graduation/rag_dbs/chroma_db",
+    "CHUNK_SIZE": 2000,
+    "CHUNK_OVERLAP": 300,
+    "BATCH_SIZE": 100,
+    "SLEEP_SECONDS": 1
+}
+  
